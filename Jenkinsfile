@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build code using Maven-Polling Test'
+                echo 'Build code using Maven - Automatic SCM Polling Demonstration'
             }
         }
 
